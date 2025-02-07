@@ -6,7 +6,7 @@ The **Note This** project is a mobile application designed to provide an efficie
 
 The front-end of the app is built using **Flutter**, and it utilizes a **local SQLite database** with **sqflite** for storing notes.
 
-## Features
+## 🔥Features
 
 - **Note Management**: Add, edit, delete, and pin notes for easy access.
 - **Note Customization**: Set a custom color for each note.
@@ -15,13 +15,13 @@ The front-end of the app is built using **Flutter**, and it utilizes a **local S
 - **Multilingual Support**: The app is available in both **Arabic** and **English**.
 - **Night Mode**: Supports night mode for better readability in low-light environments.
 
-## Technologies Used
+## ⚙️Technologies Used
 
 - **Flutter**: The front-end is developed using Flutter to ensure a smooth and cross-platform experience.
 - **SQLite**: The app uses **sqflite** to store data locally on the device.
 - **Dart**: Flutter's programming language used for building the app's logic and user interface.
 
-## How to Set Up the Project
+## ▶️How to Run the Project
 
 1. **Download the Project**:
    - Clone or download the project repository to your local machine.
@@ -32,10 +32,10 @@ The front-end of the app is built using **Flutter**, and it utilizes a **local S
    ```bash
    flutter pub get
 
-## Notes
+## 📝Notes
 - The app is still under development, and we welcome suggestions for new features or improvements.
 
-## Contact Us
+## 📩Contact Us
 If you have any questions or suggestions, feel free to reach out to us via:
 - Email: laifaachraf08@gmail.com
 
