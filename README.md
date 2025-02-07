@@ -39,6 +39,13 @@ The front-end of the app is built using **Flutter**, and it utilizes a **local S
 If you have any questions or suggestions, feel free to reach out to us via:
 - Email: laifaachraf08@gmail.com
 
-
+## Preview
+![image alt](https://github.com/achraf-dev8/note-this/blob/main/show_images/Design%20sans%20titre%20(1).png)
+![image alt](https://github.com/achraf-dev8/note-this/blob/main/show_images/Design%20sans%20titre%20(2).png)
+![image alt](https://github.com/achraf-dev8/note-this/blob/main/show_images/Design%20sans%20titre%20(3).png)
+![image alt](https://github.com/achraf-dev8/note-this/blob/main/show_images/Design%20sans%20titre%20(4).png)
+![image alt](https://github.com/achraf-dev8/note-this/blob/main/show_images/Design%20sans%20titre%20(4)2.png)
+![image alt](https://github.com/achraf-dev8/note-this/blob/main/show_images/Design%20sans%20titre%20(5).png)
+![image alt](https://github.com/achraf-dev8/note-this/blob/main/show_images/Design%20sans%20titre%20(6).png)
 
 
