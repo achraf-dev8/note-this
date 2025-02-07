@@ -41,7 +41,6 @@ If you have any questions or suggestions, feel free to reach out to us via:
 
 ## Preview
 ![image alt](https://github.com/achraf-dev8/note-this/blob/main/show_images/Design%20sans%20titre%20(1).png)
-![image alt](https://github.com/achraf-dev8/note-this/blob/main/show_images/Design%20sans%20titre%20(2).png)
 ![image alt](https://github.com/achraf-dev8/note-this/blob/main/show_images/Design%20sans%20titre%20(3).png)
 ![image alt](https://github.com/achraf-dev8/note-this/blob/main/show_images/Design%20sans%20titre%20(4).png)
 ![image alt](https://github.com/achraf-dev8/note-this/blob/main/show_images/Design%20sans%20titre%20(4)2.png)
